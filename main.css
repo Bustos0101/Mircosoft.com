@@ -128,7 +128,4 @@ body{
   body{
 /*     display: none; */
   }
-  .main-nav.show{
-    left: -41px;
-  }
 }
