@@ -109,7 +109,7 @@ body{
 }
 
 /* landscape mode - moblie - */
-@media(max-height: 400px){
+@media(max-height: 420px){
   .main-nav{
     display: none;
   }
