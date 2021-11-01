@@ -91,7 +91,7 @@ body{
   }
   
   .main-nav li{
-    padding-top: 100px;
+    padding-top: 60px;
   }
  
   .main-nav li a{
@@ -127,8 +127,5 @@ body{
   }
   body{
 /*     display: none; */
-  }
-  .main-nav li{
-    padding-top: 60px; 
   }
 }
