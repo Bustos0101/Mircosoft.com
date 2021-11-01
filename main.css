@@ -91,7 +91,7 @@ body{
   }
   
   .main-nav li{
-    padding-top: 15vh;
+    padding-top: 100px;
   }
  
   .main-nav li a{
@@ -107,11 +107,11 @@ body{
     left: -41px;
   }
   main-nav li:nth-child(2){
-   padding-top: 90px;
+/*    padding-top: 90px; */
 }
 
 /* landscape mode - moblie - */
-@media(max-height: 400px){
+@media(max-height: 500px){
   .main-nav{
     position: relative;
     left: -6px;
@@ -130,4 +130,7 @@ body{
   body{
 /*     display: none; */
   }
+  .main-nav li{
+   padding-top: 120px;
+}
 }
