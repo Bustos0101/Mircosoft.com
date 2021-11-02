@@ -83,8 +83,9 @@ body{
   }
   .logo{
     height: 46px;
-     position: relative;
+    position: relative;
     left: -74px;
+    top: 2px;
   }
   .main-nav{
     display: block;
