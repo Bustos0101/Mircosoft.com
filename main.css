@@ -64,11 +64,11 @@ body{
 /*     display: none; */
   }
 }
-@media(max-width: 421px) and (max-height: 500px){
+/* @media(max-width: 421px) and (max-height: 500px){
 
     .main-nav li{
    padding-top: 120px;
-}
+} */
 }
 /* moblie */
 @media(max-width: 420px){
@@ -97,7 +97,7 @@ body{
   }
   
   .main-nav li{
-    padding-top: 100px;
+/*     padding-top: 100px; */
   }
  
   .main-nav li a{
